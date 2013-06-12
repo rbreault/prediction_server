@@ -9,7 +9,7 @@
     // Variable being filled by parameters sent from VDL.
     $unit_id	= $_REQUEST['unitid'];
     $sqlInsert 	= $_REQUEST['insertstr'];
-
+    // just a comment
     // Database information ie. username/password database name and ip or domain
     $db_host  = "localhost";
     $db_user = "admin";
